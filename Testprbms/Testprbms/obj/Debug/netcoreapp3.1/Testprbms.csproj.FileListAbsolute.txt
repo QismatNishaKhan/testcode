@@ -1,0 +1,14 @@
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\bin\Debug\netcoreapp3.1\Testprbms.exe
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\bin\Debug\netcoreapp3.1\Testprbms.deps.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\bin\Debug\netcoreapp3.1\Testprbms.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\bin\Debug\netcoreapp3.1\Testprbms.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\bin\Debug\netcoreapp3.1\Testprbms.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\bin\Debug\netcoreapp3.1\Testprbms.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\test\Testprbms\Testprbms\obj\Debug\netcoreapp3.1\Testprbms.genruntimeconfig.cache
